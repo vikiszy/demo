@@ -1,4 +1,6 @@
 Ez itt egy szöveg.
+
+sziasztok 
 Git egy nyílt forráskódú, elosztott verziókezelő rendszer, amelyet Linus Torvalds hozott létre 2005-ben. A Git lehetővé teszi a fejlesztők számára, hogy hatékonyan kezeljék és nyomon kövessék a forráskód változtatásait, különösen akkor, amikor több fejlesztő dolgozik ugyanazon a projekten.
 Biztonság: A Git kriptográfiai hashek segítségével biztosítja a változtatások integritását és nyomon követhetőségét.
 Uzsi voltam és beleírtam.
