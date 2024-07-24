@@ -1,0 +1,19 @@
+Mi az a Git?
+Git egy nyílt forráskódú, elosztott verziókezelő rendszer, amelyet Linus Torvalds hozott létre 2005-ben. A Git lehetővé teszi a fejlesztők számára, hogy hatékonyan kezeljék és nyomon kövessék a forráskód változtatásait, különösen akkor, amikor több fejlesztő dolgozik ugyanazon a projekten.
+
+Főbb jellemzők
+Elosztott rendszer: Minden fejlesztő saját teljes értékű repozitóriummal rendelkezik, amely tartalmazza a projekt teljes történetét.
+Sebesség: A Git gyors működést biztosít, mivel a legtöbb műveletet helyben, a saját repozitóriumban végzi.
+Hatékonyság: Hatékonyan kezeli a nagy projekteket is, és jól optimalizált a közös munka és az egyidejű fejlesztések kezelésére.
+Biztonság: A Git kriptográfiai hashek segítségével biztosítja a változtatások integritását és nyomon követhetőségét.
+Hogyan működik a Git?
+Inicializálás (init): Egy új Git repozitórium létrehozása.
+Commit: A változtatások mentése a helyi repozitóriumban.
+Branch: Különböző fejlesztési ágak létrehozása és kezelése.
+Merge: Az ágak egyesítése.
+Pull és Push: Változtatások szinkronizálása a távoli és helyi repozitóriumok között.
+Clone: Egy távoli repozitórium másolatának létrehozása a helyi gépen.
+Előnyök
+Verziókövetés: Nyomon követi minden egyes módosítást, lehetővé téve a fejlesztők számára, hogy visszaállítsák a korábbi verziókat.
+Együttműködés: Könnyen lehetővé teszi több fejlesztő egyidejű munkáját ugyanazon a projekten.
+Biztonságos mentés: Minden fejlesztő teljes repozitóriummal rendelkezik, így az adatok elvesztésének kockázata minimális.
