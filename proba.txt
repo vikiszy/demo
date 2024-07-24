@@ -2,6 +2,7 @@ hello, world!
 pull request 
 
 sdfsdfsdis needed
-
+Sebesség: A Git gyors működést biztosít, mivel a legtöbb műveletet helyben, a saját repozitóriumban végzi.
 Uzsi voltam
 
+Mindent is módosítottam már
