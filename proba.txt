@@ -4,4 +4,9 @@ pull request
 sdfsdfsdis needed
 Sebesség: A Git gyors működést biztosít, mivel a legtöbb műveletet helyben, a saját repozitóriumban végzi.
 Uzsi voltam
+
+13565432
+
+
 Mindent is módosítottam már
+
